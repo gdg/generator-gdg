@@ -1,0 +1,22 @@
+{
+  "name": "generator-gdg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdg/generator-gdg.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Tarek Hariri <geodesgrp@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdg/generator-gdg/issues"
+  },
+  "homepage": "https://github.com/gdg/generator-gdg#readme"
+}
