@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/gdg/generator-gdg.git"
   },
+  "files": [
+    "generators"
+  ],
   "keywords": [
     "yeoman-generator"
   ],
@@ -18,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/gdg/generator-gdg/issues"
   },
-  "homepage": "https://github.com/gdg/generator-gdg#readme"
+  "homepage": "https://github.com/gdg/generator-gdg#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
 }
